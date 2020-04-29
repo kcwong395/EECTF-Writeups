@@ -6,7 +6,7 @@ The flag is hidden in the file, view the file with sonic visualizer
 
 Add a spectrogram to this audio
 
-![crackedMessage](C:\Users\Martin\Documents\EECTF-Writeups\Forensics\Hello From The Other Side\crackedMessage.PNG)
+![crackedMessage](https://github.com/kcwong395/EECTF-Writeups/blob/master/Forensics/Hello%20From%20The%20Other%20Side/crackedMessage.PNG)
 
 Flag: EECTF{alien_signal_cracked}
 
