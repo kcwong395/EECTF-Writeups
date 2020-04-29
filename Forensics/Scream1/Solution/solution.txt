@@ -1,3 +1,0 @@
-The flag is hidden in the metadata
-
-Flag: EECTF{wh0_15_th15}
