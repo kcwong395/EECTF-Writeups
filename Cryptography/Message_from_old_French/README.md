@@ -1,4 +1,4 @@
-## Message_from_old_French (200 points)
+# Message_from_old_French (200 points)
 
 First of all, let view the flag first:
 
