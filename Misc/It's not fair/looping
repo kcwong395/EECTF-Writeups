@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for i in $(seq 1 101);
+do
+	let j=102-$i;
+	unzip flag$j.zip; 
+done

@@ -1,6 +1,6 @@
 # Sign The Bill (50 points)
 
-Students are given an encoded message
+Students are given an encoded message (Refer to Message.txt)
 
 Decode it using base64 image decoder
 
