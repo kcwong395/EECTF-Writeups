@@ -1,4 +1,4 @@
-## VeryGoodCCCipher (200 points)
+# VeryGoodCCCipher (200 points)
 
 Firstly, let's look at our ciphertext:
 
