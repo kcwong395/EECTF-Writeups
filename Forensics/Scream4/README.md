@@ -8,7 +8,7 @@ Open a hex editor
 
 Change value at 0x17 from 0x00 to 0x93
 
-![image](https://github.com/kcwong395/EECTF-Writeups/blob/master/Forensics/Scream4/recovered_image.png)
+![image](recovered_image.png)
 
 Flag: *EECTF{d0_y0u_l1ke_scary_m0v1e5}*
 

@@ -6,7 +6,7 @@ A picture is embed into this file
 
 Use a tool called deep sound to extract Who.jpg
 
-![adele](https://github.com/kcwong395/EECTF-Writeups/blob/master/Forensics/Rolling%20In%20The%20DEEP/Who.jpg)
+![adele](Who.jpg)
 
 Check the image and you will find a copyright information
 
