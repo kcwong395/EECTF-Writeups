@@ -1,4 +1,4 @@
-## CodeOfConduct (100 points)
+# CodeOfConduct (100 points)
 
 Firstly, we just download the ciphertext, and see what is it.
 
