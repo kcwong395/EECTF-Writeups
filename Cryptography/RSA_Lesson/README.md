@@ -20,5 +20,5 @@ M = 5201314
 
 C = M^e mod N = 2575
 
-so, the flag is : EECTF{2575}
+Flag: EECTF{2575}
 
