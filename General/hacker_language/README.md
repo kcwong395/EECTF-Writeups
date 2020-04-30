@@ -1,4 +1,4 @@
-## hacker language (300 points)
+# hacker language (300 points)
 
 Firstly, let's look at the image
 
