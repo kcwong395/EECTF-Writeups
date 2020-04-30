@@ -1,4 +1,0 @@
-Use deep sound to extract who.jpg
-use f5 extract the flag with pw adele
-
-EECTF{53cr37_1n_7h3_d33p}
